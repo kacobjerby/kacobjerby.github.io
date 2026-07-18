@@ -22,5 +22,4 @@ function gaymode(onOffToggle) {
         default:
             console.log("Usage: gaymode(On/Off/Toggle)")
     }
-    document.body.classList.toggle("gay");
 }
