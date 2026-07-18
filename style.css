@@ -2,11 +2,11 @@ body {
     background-color: lightpink;
 }
 p {
-    display: inline-block;
     color: black;
     font-family: 'Courier New', Courier, monospace;
 }
 .rainbow {
+    display: inline-block;
     background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
     -webkit-background-clip: text;
     background-clip: text;
