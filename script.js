@@ -7,3 +7,7 @@ document.getElementById("gayBtn").addEventListener("click", () => {
     document.body.classList.toggle("gay");
 });
 */
+
+function gaymode() {
+    document.body.classList.toggle("gay");
+}
