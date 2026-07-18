@@ -1,1 +1,14 @@
-/*Placeholder :3*/
+body {
+    background-color: lightpink;
+}
+p {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.rainbow {
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
