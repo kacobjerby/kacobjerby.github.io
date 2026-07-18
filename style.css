@@ -1,8 +1,8 @@
 body {
     background-color: lightpink;
+    color: black;
 }
 p {
-    color: black;
     font-family: 'Courier New', Courier, monospace;
 }
 .rainbow {
@@ -12,4 +12,8 @@ p {
     background-clip: text;
     -webkit-text-fill-color: transparent;
     color: transparent;
+}
+.black-bg {
+    background-color: black;
+    color: white
 }
