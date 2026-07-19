@@ -27,3 +27,4 @@ function gaymode(onOffToggle) {
             break;
     }
 }
+
